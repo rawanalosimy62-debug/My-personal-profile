@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Profile</title>
+</head>
+
+<body>
+
+    <h1>My Personal Profile</h1>
+
+    <h2>About Me</h2>
+
+    <p>
+        My name is <strong>Rawan Mutlaq Mohammed Al-Osaimi</strong>.
+        I am 20 years old and I live in Sana'a, Yemen.
+        I am a second-year Cybersecurity student.
+    </p>
+
+    <h2>My Hobbies</h2>
+
+    <ul>
+        <li>Reading books</li>
+        <li>Learning new things</li>
+        <li>Exploring technology</li>
+    </ul>
+
+    <h2>My Goals</h2>
+
+    <ol>
+        <li>Complete my university studies successfully.</li>
+        <li>Improve my knowledge of cybersecurity.</li>
+        <li>Become a successful cybersecurity engineer.</li>
+    </ol>
+
+    <h2>My Favorite Website</h2>
+
+    <p>
+        Visit
+        <a href="https://www.w3schools.com/">
+            W3Schools
+        </a>
+        to learn HTML.
+    </p>
+
+    <p>
+        <strong>Thank you for visiting my profile!</strong>
+    </p>
+
+</body>
+</html>
